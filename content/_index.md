@@ -14,10 +14,9 @@ sections:
     new_window: false
 - type: section_features
   template: section_features
-  title: Features
+  title: Nos avantages
   section_id: features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: On est les meilleurs il faut le dire
   background: gray
   features:
   - title: The Best Feature of Your Services
