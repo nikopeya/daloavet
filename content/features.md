@@ -38,8 +38,7 @@ sections:
   background: gray
   type: section_content
   title: Essai de code
-  content: <div><img scr="[http://canvey.c.a.pic.centerblog.net/538969a1.gif](http://canvey.c.a.pic.centerblog.net/538969a1.gif
-    "http://canvey.c.a.pic.centerblog.net/538969a1.gif")"></div>
+  content: <div><img scr="https://epicap.com/1342-thickbox_default/sas-de-decontamination-materiel-3c-conforme-ed6307-livre-complet.jpg"></div>
   section_id: ''
   image: ''
   actions: []
