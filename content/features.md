@@ -38,12 +38,8 @@ sections:
   background: gray
   type: section_content
   title: Essai de code
-  content: |-
-    <html>
-
-    <img scr="[http://canvey.c.a.pic.centerblog.net/538969a1.gif](http://canvey.c.a.pic.centerblog.net/538969a1.gif "http://canvey.c.a.pic.centerblog.net/538969a1.gif")">
-
-    </html>
+  content: <div><img scr="[http://canvey.c.a.pic.centerblog.net/538969a1.gif](http://canvey.c.a.pic.centerblog.net/538969a1.gif
+    "http://canvey.c.a.pic.centerblog.net/538969a1.gif")"></div>
   section_id: ''
   image: ''
   actions: []
