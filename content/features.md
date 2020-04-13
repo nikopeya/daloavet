@@ -38,33 +38,17 @@ sections:
   background: gray
   type: section_content
   title: Essai de code
-  content: "<!DOCTYPE html>\n\n<html>\n\n<head>\n\n    <html lang=\"en\">\n\n    <title>Banner
-    300x250</title>\n\n    <meta name=\"author\" content=\"Das Banner\">\n\n    <meta
-    http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n\n    <meta
-    name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n    \n\n
-    \   <!-- Google Enabler --v -->\n\n    <script src=\"[https://s0.2mdn.net/ads/studio/Enabler.js](https://s0.2mdn.net/ads/studio/Enabler.js
-    \"https://s0.2mdn.net/ads/studio/Enabler.js\")\"> </script>\n\n    \n\n    <!--
-    Animation --v -->\n\n    <script type=\"text/javascript\" src=\"animation.js\"></script>\n\n
-    \       \n\n    <!--CDN links for the latest TweenLite, CSSPlugin, and EasePack
-    --v -->\n\n    <script src=\"[http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/CSSPlugin.min.js](http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/CSSPlugin.min.js
-    \"http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/CSSPlugin.min.js\")\">\n\n
-    \   </script>\n\n    <script src=\"[http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/easing/EasePack.min.js](http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/easing/EasePack.min.js
-    \"http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/easing/EasePack.min.js\")\">\n\n
-    \   </script>\n\n    <script src=\"[http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenLite.min.js](http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenLite.min.js
-    \"http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenLite.min.js\")\"></script>\n\n
-    \   <script src=\"[http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TimelineLite.min.js](http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TimelineLite.min.js
-    \"http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TimelineLite.min.js\")\"></script>\n\n
-    \       \n\n    <!--LOCAL TweenLite, CSSPlugin, and EasePack --v -->\n\n    <!--
-    \n\n    <script type=\"text/javascript\" src=\"TweenLite.min.js\"></script>\n\n
-    \   <script type=\"text/javascript\" src=\"CSSPlugin.min.js\"></script>\n\n    <script
-    type=\"text/javascript\" src=\"EasePack.min.js\"></script>\n\n    <script type=\"text/javascript\"
-    src=\"TimelineLite.min.js\"></script>\n\n    -->\n\n    \n\n    <!-- CSS  --v
-    -->\n\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">       \n\n</head>\n\n<body
-    id=\"container\">\n\n    <div id=\"banner\">\n\n        <img id=\"bgImage\" src=\"bgImg.jpg\">\n\n
-    \       <div id=\"copy1\"></div>\n\n        <div id=\"copy2\"></div>\n\n        <div
-    id=\"copy3\"></div>\n\n        <div id=\"copy4\"></div>\n\n        <div id=\"cta\"><div
-    id=\"ctaTextHolder\"></div></div>   \n\n        <div id=\"bg-exit\"></div> <!--
-    exit for Google -->\n\n    </div>\n\n</body>\n\n</html>"
+  content: "<form action=\"\" method=\"post\" class=\"\">\n\n    <h1>Contact Form
+    \n\n           <span>Please fill all field</span>\n\n    </h1>\n\n    <label>\n\n
+    \       <span>Your Name :</span>\n\n        <input type=\"text\" id=\"name\" name=\"name\"/>\n\n
+    \   </label>\n\n    <label>\n\n        <span>Your Email :</span>\n\n        <input
+    type=\"text\" id=\"email\" name=\"email\"/>\n\n    </label>\n\n    <label>\n\n
+    \       <span>Message :</span>\n\n        <input type=\"text\" id=\"message\"
+    name=\"message\"/>\n\n    </label>\n\n    <label>\n\n        <span>subject</span>\n\n
+    \       <select name=\"subject\" id=\"\">\n\n            <option value=\"question\">question</option>\n\n
+    \           <option value=\"suggest\">suggest</option>\n\n        </select>\n\n
+    \   </label>\n\n    <label>\n\n        <span>&nbsp;</span>\n\n        <input type=\"button\"
+    value=\"send\" />\n\n    </label>\n\n</form>"
   section_id: ''
   image: ''
   actions: []
